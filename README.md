@@ -1,1 +1,3 @@
-react-flux-test BBB
+# react-flux-test
+
+![](img/dataflow.png)
