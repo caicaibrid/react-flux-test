@@ -1,0 +1,25 @@
+{
+  "name": "react-flux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --port 8000 --hot --inline --progress --colors ",
+    "build": "webpack -p"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "flux": "^3.1.2",
+    "jsx-loader": "^0.13.2",
+    "object-assign": "^4.1.0",
+    "open-browser-webpack-plugin": "0.0.3",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
